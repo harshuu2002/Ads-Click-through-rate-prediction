@@ -7,7 +7,7 @@ Objective: Developed a predictive model to enhance the accuracy of click-through
 <br>
 Scope: Analyzed and processed over 10 million ad impressions from multiple ad campaigns to create a robust machine learning model.
 <br>
-Tech Stack: Utilized Python, Scikit-Learn, and XGBoost for data analysis and model development. Implemented data visualization using Matplotlib and Seaborn.
+Tech Stack: Utilized Python, NumPy, Pandas, Seaborn, and XGBoost for data analysis and model development. Implemented data visualization using Matplotlib and Seaborn.
 <br>
 Data Preparation: Cleaned and preprocessed the dataset by handling missing values, encoding categorical features, and normalizing numerical features. Employed feature engineering techniques to create new predictive variables.
 <br>
@@ -16,7 +16,7 @@ Data Preparation: Cleaned and preprocessed the dataset by handling missing value
 # Model Development:
 <br>
 <br>
-Algorithm Selection: Tested multiple algorithms including Logistic Regression, Random Forest, and Gradient Boosting Machines (GBM).
+Algorithm Selection: Tested multiple algorithms including Logistic Regression, Random Forest, XG Boost, Decicion Tree, Naive Bayes, K-nearest neighbour.
 <br>
 Performance Metrics: Achieved an AUC-ROC score of 0.85, with a precision of 0.80 and recall of 0.78 on the test set.
 <br>
